@@ -1,3 +1,5 @@
+CREATE DATABASE lele;
+
 CREATE TABLE `admin` (
   `AdminID` varchar(10) NOT NULL,
   `NamaAdmin` varchar(50) NOT NULL,
